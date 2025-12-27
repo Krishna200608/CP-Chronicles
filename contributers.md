@@ -55,5 +55,7 @@
 | Vrajkumar Shah        | vraj826                   | DDU, Nadiad
 | Atharva Mehta          | Atharva-insane           |  IIIT Allahabad                                                  | 
 | Apoorv Mittal          | Apoorv012                |  JIIT Noida                                                  |                                               
+|Aman Kumar Mehta       |AmanMehta22                |Amity University Jharkhand                                         |                                                                                             |     
+| Naman Pal              | Naman2251                | IIIT Allahabad
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
